@@ -192,3 +192,17 @@ button {
 button:hover {
   transform: scale(1.1) translateX(3px);
 }
+
+.flexI {
+  display: flex;
+  justify-content: center;
+}
+
+.itemI {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
